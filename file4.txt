@@ -1,6 +1,4 @@
-I am learning git  new file:   file2.txt
-  new file:   file2.txt
-  new file:   file2.txt
+txt  new file:   file2.txt
   new file:   file2.txt
   new file:   file2.txt
   new file:   file2.txt
